@@ -1,0 +1,265 @@
+word,label
+z a r a z a r a,0
+g o ts u g o ts u,1
+sh u w a sh u w a,2
+ch i k u ch i k u,3
+s u b e s u b e,4
+h i N y a r i,5
+p a r i p a r i,6
+ts u r u ts u r u,7
+g a r i g a r i,8
+g o w a g o w a,9
+b e t a b e t a,10
+s a r a s a r a,11
+k a r i k a r i,12
+p e r a p e r a,13
+z a r a r i,14
+n u k u n u k u,15
+g a: g a:,16
+g a o:,17
+k a sh a,18
+k a t a k a t a,19
+g a t a g a t a,20
+g a ts u g a ts u,21
+g a q k a r i,22
+g a m i g a m i,23
+g a y a g a y a,24
+k a r a k a r a,25
+g a r a g a r a,26
+e: N,27
+u q k a r i,28
+k a N k a N,29
+g a N g a N,30
+k i: k i:,31
+g i k o g i k o,32
+g i z a g i z a,33
+g i s u g i s u,34
+k i ts u k i ts u,35
+g i q sh i r i,36
+g i t o g i t o,37
+gy u: gy u:,38
+ky o r o ky o r o,39
+gy o r o gy o r o,40
+k i r a k i r a,41
+k i r i k i r i,42
+g i r i g i r i,43
+k i N k i N,44
+k i N k o N k a N k o N,45
+g u i g u i,46
+g u: g u:,47
+g u k i q,48
+k u s u k u s u,49
+k u t a k u t a,50
+k u ch a k u ch a,51
+g u ch a g u ch a,52
+g u ts u g u ts u,53
+g u q s u r i,54
+g u q t a r i,55
+k u d o k u d o,56
+k u n e k u n e,57
+g u b i g u b i,58
+k u r a k u r a,59
+g u r a g u r a,60
+k u r u k u r u,61
+g u r u g u r u,62
+k u N k u N,63
+g u N g u N,64
+g e q s o r i,65
+g e r a g e r a,66
+k e r o k e r o,67
+g o k u g o k u,68
+k o k e k o q k o:,69
+k o s o k o s o,70
+g o sh i g o sh i,71
+g o ch a g o ch a,72
+k o ts u k o ts u,73
+i g a i g a,74
+g o q s o r i,75
+k o q t e r i,76
+g o ts u N,77
+k o t o k o t o,78
+k o n a g o n a,79
+g o h o g o h o,80
+k o r o k o r o,81
+g o r o g o r o,82
+k o N k o N,83
+z a: z a:,84
+s a q p a r i,85
+u r o: r o,86
+a q s a r i,87
+sh i t o sh i t o,88
+j i m e j i m e,89
+j a b u j a b u,90
+sh a k a sh a k a,91
+sh a k i sh a k i,92
+sh u:,93
+j u: j u:,94
+i j i: j i,95
+j o r i j o r i,96
+j i r i j i r i,97
+j i r o j i r o,98
+sh i w a sh i w a,99
+j i N j i N,100
+s u k a s u k a,101
+z u k i z u k i,102
+s u k u s u k u,103
+s u t a s u t a,104
+s u q k i r i,105
+z u b u z u b u,106
+i r a i r a,107
+s u y a s u y a,108
+s u r a s u r a,109
+s u r i s u r i,110
+z u r u z u r u,111
+z o k u z o k u,112
+s o q k u r i,113
+s o q t o,114
+s o y o s o y o,115
+s o w a s o w a,116
+t a q p u r i,117
+d a b o d a b o,118
+d a r a d a r a,119
+i ch a i ch a,120
+ch a r a ch a r a,121
+ch u: ch u:,122
+ch u N ch u N,123
+ch o k i ch o k i,124
+ch o r o ch o r o,125
+ch i r a q t o,126
+ts u: N,127
+ts u y a ts u y a,128
+u j a u j a,129
+t e k i p a k i,130
+t e k u t e k u,131
+d e k o b o k o,132
+d e r e d e r e,133
+d o k a: N,134
+d o k i d o k i,135
+t o g e t o g e,136
+d o b a d o b a,137
+t o r o t o r o,138
+d o r o d o r o,139
+t o N t o N,140
+d o N d o N,141
+d o N y o r i,142
+n a m i n a m i,143
+n i k o n i k o,144
+ny a:,145
+n i y a n i y a,146
+ny o k i ny o k i,147
+ny o r o ny o r o,148
+n u m e n u m e,149
+n u r u n u r u,150
+n e ch i n e ch i,151
+n e b a n e b a,152
+n o r o n o r o,153
+h a: h a:,154
+p a o: N,155
+h a k i h a k i,156
+b a k i b a k i,157
+b a k u b a k u,158
+b a sh a b a sh a,159
+b a t a b a t a,160
+p a t a p a t a,161
+b a ch i b a ch i,162
+p a ch i p a ch i,163
+b a q t a r i,164
+b a q ch i r i,165
+h a r a h a r a,166
+b a r a b a r a,167
+p a r a p a r a,168
+p a N p a N,169
+p i: p o: p i: p o:,170
+p i e N,171
+p i k a p i k a,172
+b i k u q,173
+b i k u b i k u,174
+p i k u p i k u,175
+b i sh o b i sh o,176
+h i s o h i s o,177
+p i ch i p i ch i,178
+p i q t a r i,179
+h i h i: N,180
+p i y o p i y o,181
+by u: by u:,182
+hy o r o hy o r o,183
+py o N py o N,184
+h i r a h i r a,185
+p i r i q,186
+h i r i h i r i,187
+b i r i b i r i,188
+p i N p i N,189
+p i N p o N,190
+u k i:,191
+f u: f u:,192
+b u: b u:,193
+f u k a f u k a,194
+b u k a b u k a,195
+p u k a p u k a,196
+b u k u b u k u,197
+f u s a f u s a,198
+p u sh u q,199
+f u q k u r a,200
+b u ts u b u ts u,201
+f u r a f u r a,202
+b u r a b u r a,203
+p u r i p u r i,204
+b u r u b u r u,205
+f u w a f u w a,206
+p u N p u N,207
+b u N b u N,208
+p e k o p e k o,209
+p e k o r i,210
+u r u: r u,211
+p e ch a N k o,212
+h e t o h e t o,213
+h e n a h e n a,214
+o gy a: o gy a:,215
+b e r o b e r o,216
+p e r o p e r o,217
+p o i q,218
+b o: q t o,219
+h o: h o:,220
+b o: b o:,221
+h o: h o k e ky o,222
+p o k a p o k a,223
+p o k a N,224
+h o k u h o k u,225
+b o k o b o k o,226
+b o s a b o s a,227
+p o t a p o t a,228
+p o ch a N,229
+p o ts u p o ts u,230
+b o r i b o r i,231
+b o r o b o r o,232
+m a j i m a j i,233
+m a r u m a r u,234
+m u k a m u k a,235
+m u k i m u k i,236
+m u sh i m u sh i,237
+m u z u m u z u,238
+m u sh a m u sh a,239
+m u ch i m u ch i,240
+m u r a m u r a,241
+m e::,242
+m e r a m e r a,243
+m e r o m e r o,244
+m o:,245
+m o j a m o j a,246
+m o k u m o k u,247
+m o g u m o g u,248
+m o j i m o j i,249
+m o k o m o k o,250
+m o t a m o t a,251
+m o ch i m o ch i,252
+m o t e m o t e,253
+m o m i m o m i,254
+m o r i m o r i,255
+y u r a y u r a,256
+y o b o y o b o,257
+y o r e y o r e,258
+y o r o y o r o,259
+r i N r i N,260
+r u N r u N,261
+w a i w a i,262
+w a k u w a k u,263
